@@ -25,6 +25,8 @@ In addition to the standard set of features you'd expect from any grid:
 * Sorting
 * Row Selection
 
+Silly little change
+
 Here are some of the features that make AG Grid stand out:
 
 * Grouping / Aggregation *
